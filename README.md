@@ -2,7 +2,7 @@
 
 > A curated list of awesome indie virtual production resources using Unreal Engine, inspired by [awesome](https://github.com/sindresorhus/awesome).
 
-[![](https://img.shields.io/badge/-Facebook%20Group%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
+[![](https://img.shields.io/badge/%E2%9D%A4-Facebook%20Group%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
@@ -12,8 +12,13 @@
 - [Overview](#overview)
     - [What is Virtual Production](#overview)
     - [Why Unreal Engine](#overview)
-- [Fonts](#fonts)
-- [Colors](#colors)
+- [Plugins](#plugins)
+- [Hardware](#hardware)
+    - [Cameras](#cameras)
+    - [Capture Cards](#capture-cards)
+- [Tutorials](#tutorials)
+- [Community](#community)
+- [Contribution](#contribution)
 
 ## Overview
 ### What is Virtual Production
@@ -33,11 +38,69 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Hardware
+
+### Capture Cards
+#### Recomended Capture Cards (by Epic Games)
+##### Blackmagic
+- [DeckLink 4K Extreme 12G](https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-25)
+- [DeckLink Duo 2](https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-31)
+- [DeckLink 8K Pro](https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-34)
+
+##### AJA
+- [Corvid 44 12G](https://www.aja.com/products/corvid-44-12g)
+- [Corvid 44](https://www.aja.com/products/corvid-44)
+- [KONA 4](https://www.aja.com/products/kona-4) - 4K bitfile is supported, UFC bitfile is not supported.
+- [KONA 5](https://www.aja.com/products/kona-5) - Both KONA 5 (4K) and KONA 5 (8K) bitfiles are supported.
+- [KONA HDMI](https://www.aja.com/products/kona-hdmi)
+- [Io 4K Plus](https://www.aja.com/products/io-4k-plus)
+
+#### Tested Capture Cards (by Community)
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Tutorials
+### Unreal Documentation
+- [Real-Time Compositing with Composure](https://docs.unrealengine.com/en-US/Engine/Composure/index.html)
+- [AJA Video I/O Quick Start](https://docs.unrealengine.com/en-US/Engine/ProVideoIO/AJAQuickStart/index.html)
+- [Blackmagic Video I/O Quick Start](https://docs.unrealengine.com/en-US/Engine/ProVideoIO/BlackmagicQuickStart/index.html)
+- [Timecode and Genlock](https://docs.unrealengine.com/en-US/Engine/ProVideoIO/TimecodeGenlock/index.html)
 
 ### YouTube
+- [Greg Corson](https://www.youtube.com/user/GregCorson)
+- [Richard Frantzén](https://www.youtube.com/channel/UCX7wgObMBx4dgTblpVpGDeA)
+- [Cinematography Database](https://www.youtube.com/user/cinematographydb)
+- [WINBUSH](https://www.youtube.com/user/JonathanWinbush)
+- [Fatty Bull](https://www.youtube.com/channel/UCQE3ES2xpFa9Ym3mP4XvWww)
+- [Andy Blondin](https://www.youtube.com/channel/UCa1s9Zc1YxGUTlENQ0Nmyrg)
+- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
+    - [Virtual Production in 4.22](https://www.youtube.com/watch?v=y7DwhY5LpBw&t=2704s) - Live Training Session.
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Community
+
+- [Facebook - Unreal Engine: Virtual Production](https://www.facebook.com/groups/virtualproduction/)
+- [Unreal Forum - Visual Disruptors](https://ue.unrealengine.com/Visual-Disruptors.html)
+- [Discord - Virtual Production with Unreal Engine](https://discord.com/invite/GJQFYdh)
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## 🙌 Contribution
+
+> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the resources.
+
+- Open pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LazPremarathana.svg?style=social&label=Follow%20%40LazPremarathana)](https://twitter.com/LazPremarathana)
 
 ## License
 
-The repo is licensed under the [MIT License](./LICENSE):
+The repo is licensed under the [MIT License](./LICENSE).
