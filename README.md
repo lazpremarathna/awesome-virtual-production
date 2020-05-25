@@ -16,6 +16,7 @@
 - [Hardware](#hardware)
     - [Cameras](#cameras)
     - [Capture Cards](#capture-cards)
+    - [Tracking Devices](#tracking-devices)
 - [Tutorials](#tutorials)
 - [Community](#community)
 - [Contribution](#contribution)
@@ -56,6 +57,31 @@
 - [Io 4K Plus](https://www.aja.com/products/io-4k-plus)
 
 #### Tested Capture Cards (by Community)
+>Need your contribution.
+##### Blackmagic
+- [DeckLink Studio 4K](https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-12)
+- [DeckLink Mini Recorder](https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-06) - Input Only.
+
+
+### Tracking Devices
+##### HTC
+- [HTC Vive Controller](https://www.vive.com/eu/accessory/controller2018/)
+- [SteamVR Base Station 2.0](https://www.vive.com/eu/accessory/base-station2/)
+- [HTC Vive Tracker](https://www.vive.com/eu/vive-tracker/)
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Tools
+
+### Commercial
+- [Vanishing Point](http://vanishingpoint.xyz/) - A combination of hardware and custom software that allows you to use real-time virtual production tools right away.
+- [DragonFly](https://glassboxtech.com/products/dragonfly) - A professional cross-platform virtual camera for Unreal Engine, Unity 3D and Maya.
+
+- [Live Client](https://glassboxtech.com/products/live-client) - A facial motion capture software to animate and track facial movement from any video source to CG characters.
+
+- [BeeHive](https://glassboxtech.com/products/beehive) - A collaborative, virtual scene syncing, editing and review solution.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -69,12 +95,12 @@
 - [Timecode and Genlock](https://docs.unrealengine.com/en-US/Engine/ProVideoIO/TimecodeGenlock/index.html)
 
 ### YouTube
-- [Greg Corson](https://www.youtube.com/user/GregCorson)
-- [Richard Frantzén](https://www.youtube.com/channel/UCX7wgObMBx4dgTblpVpGDeA)
 - [Cinematography Database](https://www.youtube.com/user/cinematographydb)
+- [Richard Frantzén](https://www.youtube.com/channel/UCX7wgObMBx4dgTblpVpGDeA)
 - [WINBUSH](https://www.youtube.com/user/JonathanWinbush)
-- [Fatty Bull](https://www.youtube.com/channel/UCQE3ES2xpFa9Ym3mP4XvWww)
+- [Greg Corson](https://www.youtube.com/user/GregCorson)
 - [Andy Blondin](https://www.youtube.com/channel/UCa1s9Zc1YxGUTlENQ0Nmyrg)
+- [Fatty Bull](https://www.youtube.com/channel/UCQE3ES2xpFa9Ym3mP4XvWww)
 - [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
     - [Virtual Production in 4.22](https://www.youtube.com/watch?v=y7DwhY5LpBw&t=2704s) - Live Training Session.
 
@@ -103,4 +129,4 @@
 
 ## License
 
-The repo is licensed under the [MIT License](./LICENSE).
+This repo is licensed under the [MIT License](./LICENSE).
